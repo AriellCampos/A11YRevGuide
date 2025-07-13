@@ -1,28 +1,39 @@
 # A11YRevGuide (Accessibility User Reviews Guide)
 
-## Descrição
+## About A11YRevGuide
 
-O **A11YRevGuide** é uma ferramenta projetada para facilitar a visualização e análise de avaliações de usuários na **Google Play Store** relacionadas a deficiências visuais e condições oculares. Derivada das visualizações do **UX-RIVIS** (User eXperience Reviews Information Visualization), a ferramenta organiza as avaliações com base nos **tópicos e diretrizes de acessibilidade móvel da BBC**.
+Welcome to **A11YRevGuide** (Accessibility User Reviews Guide), a tool designed to support the exploration and visualization of user reviews from the **Google Play Store** related to **visual impairments and eye conditions**.
 
-## Funcionalidades
+Inspired by the **UX-RIVIS** (User eXperience Reviews Information Visualization) approach, this tool organizes reviews according to the **topics and recommendations of the BBC Mobile Accessibility Guidelines**.
 
-- **Visualização das avaliações**: O A11YRevGuide exibe informações sobre as avaliações feitas por usuários, permitindo que você analise a relação entre acessibilidade e a experiência do usuário.
-- **Dados disponíveis**:
-  - Número total de avaliações.
-  - Média de estrelas (de 1 a 5 estrelas).
-  - Deficiências ou condições oculares mencionadas nas avaliações.
-  - Recursos de interface envolvidos.
-  - Classificação das avaliações como **positivas** ou **negativas**.
-  
-- **Modos de visualização**:
-  - **Diagrama de árvore**: Para uma visão geral das avaliações e suas categorias.
-  - **Cartões**: Organiza as avaliações em blocos informativos e interativos.
-  - **Tabela**: Exibe as avaliações de forma tabular, permitindo uma análise detalhada.
+## Features
 
-## Contato
+- **Review Visualization**: A11YRevGuide displays information from user reviews, allowing you to analyze the relationship between accessibility and user experience.
+- **Available Data**:
+  - Total number of reviews
+  - Average user rating (1 to 5 stars)
+  - Types of impairments or eye conditions mentioned
+  - Involved interface components
+  - Classification of feedback as **positive** or **negative**
+- **Navigation Modes**:
+  - **Tree Diagram**: Provides an overview of review categories
+  - **Card-Based View**: Organizes reviews into interactive blocks
+  - **Tabular View**: Displays detailed information in a table format
 
-Se você tiver alguma dúvida, sugestão ou precisar de mais informações, entre em contato pelos seguintes e-mails:
+## Contexts of Use
 
-- [albertodumont@usp.br](albertodumont@usp.br)
-- [marceloeler@usp.br](mailto:marceloeler@usp.br)
-- [arielcampos@estudante.ufscar.br](mailto:arielcampos@estudante.ufscar.br)
+This tool can be used in both **academic** and **professional** contexts:
+
+- In **education**, it supports accessibility teaching by linking technical guidelines to real-world user experiences.
+- In **industry**, it helps developers and designers identify accessibility barriers and improve mobile interface design based on actual user feedback.
+
+We hope you enjoy using the tool and that it helps you better understand accessibility issues from the user’s perspective.
+
+## Contact
+
+For questions, suggestions, or more information, please contact:
+
+- [albertodumont@usp.br](mailto:albertodumont@usp.br) — **Alberto Dumont**  
+- [marceloeler@usp.br](mailto:marceloeler@usp.br) — **Marcelo Eler**  
+- [arielcampos@estudante.ufscar.br](mailto:arielcampos@estudante.ufscar.br) — **Ariel Campos**  
+- [luciana.zaina@ufscar.br](mailto:luciana.zaina@ufscar.br) — **Luciana Zaina**
